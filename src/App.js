@@ -13,7 +13,7 @@ export default function App() {
                <h3>Eredeti megoldás:</h3>
                <p>Minden pontosan a megadott instrukciók alapján készült, szimplán, egyszerűen, túlbonyolítás nélkül.</p>
                <p>Input mező mellett a gomb, kattintásra update. Kódban minden különszedve 4 különböző komponensre az instrukciók alapján.</p>
-               <a href='/'>Kód</a>
+               <a href='https://github.com/Aelnara/medio/blob/master/src/Solution1.js'>Kód</a>
             </div>
          </div>
          
@@ -23,7 +23,7 @@ export default function App() {
                <h3>Megoldás 2:</h3>
                <p>Eredeti példa átdolgozva a Material UI nevű könyvtárral.</p>
                <p>Szintén csak a gombra kattintás után történik az update.</p>
-               <a href='/'>Kód</a>
+               <a href='https://github.com/Aelnara/medio/blob/master/src/Solution2.js'>Kód</a>
             </div>
          </div>
          
@@ -33,7 +33,7 @@ export default function App() {
                <h3>Megoldás 3:</h3>
                <p>A Megoldás 2 továbbgondolása.</p>
                <p>Gomb nélküli megvalósítás, az update a szöveg írásával egyidőben történik.</p>
-               <a href='/'>Kód</a>
+               <a href='https://github.com/Aelnara/medio/blob/master/src/Solution3.js'>Kód</a>
             </div>
          </div>
       </div>
